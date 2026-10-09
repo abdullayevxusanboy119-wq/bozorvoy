@@ -1,0 +1,362 @@
+{
+ "categories": [
+  {
+   "id": 1,
+   "name": "Elektronika",
+   "icon": "fa-mobile-screen-button",
+   "color": "#D4DDC8"
+  },
+  {
+   "id": 2,
+   "name": "Kiyim-kechak",
+   "icon": "fa-shirt",
+   "color": "#F3DFD3"
+  },
+  {
+   "id": 3,
+   "name": "Poyabzal",
+   "icon": "fa-shoe-prints",
+   "color": "#DDE3D4"
+  },
+  {
+   "id": 4,
+   "name": "Uy jihozlari",
+   "icon": "fa-couch",
+   "color": "#FAF0DA"
+  },
+  {
+   "id": 5,
+   "name": "Aksessuarlar",
+   "icon": "fa-clock",
+   "color": "#EFE3D8"
+  },
+  {
+   "id": 6,
+   "name": "Aksiya",
+   "icon": "fa-tags",
+   "color": "#F7E3DD"
+  }
+ ],
+ "products": [
+  {
+   "id": 1,
+   "name": "Simsiz quloqchin Pro",
+   "category": 1,
+   "categoryId": 1,
+   "price": 420000,
+   "oldPrice": 520000,
+   "stock": 34,
+   "sold": 128,
+   "icon": "fa-headphones",
+   "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=80&auto=format&fit=crop",
+   "bg": "#D4DDC8",
+   "desc": "Yuqori sifatli simsiz quloqchin. Faol shovqin o'chirish (ANC), 40 soatlik batareya, Bluetooth 5.3. Sport, sayohat va ish uchun ideal.",
+   "colors": [
+    "Qora",
+    "Oq",
+    "Ko'k",
+    "Pushti"
+   ],
+   "sizes": [
+    "Standart",
+    "Bolalar"
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Aqlli soat X2",
+   "category": 1,
+   "categoryId": 1,
+   "price": 890000,
+   "oldPrice": 1050000,
+   "stock": 12,
+   "sold": 76,
+   "icon": "fa-clock",
+   "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&q=80&auto=format&fit=crop",
+   "bg": "#D4DDC8",
+   "desc": "AMOLED displey, yurak urish tezligi monitori, GPS, 100+ sport rejimi. Suvga chidamli (5ATM).",
+   "colors": [
+    "Qora",
+    "Oq",
+    "Kumush",
+    "Ko'k"
+   ],
+   "sizes": [
+    "40 mm",
+    "44 mm"
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Erkaklar kurtkasi",
+   "category": 2,
+   "categoryId": 2,
+   "price": 320000,
+   "stock": 5,
+   "sold": 41,
+   "icon": "fa-vest",
+   "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=600&q=80&auto=format&fit=crop",
+   "bg": "#F3DFD3",
+   "desc": "Sifatli materialdan tikilgan, issiq va qulay. Kuz-qish mavsumi uchun.",
+   "colors": [
+    "Qora",
+    "Kulrang",
+    "To'q ko'k",
+    "Yashil"
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "id": 4,
+   "name": "Ayollar ko'ylagi",
+   "category": 2,
+   "categoryId": 2,
+   "price": 210000,
+   "stock": 22,
+   "sold": 63,
+   "icon": "fa-person-dress",
+   "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=600&q=80&auto=format&fit=crop",
+   "bg": "#F3DFD3",
+   "desc": "Yengil, nafas oluvchi mato. Har qanday tanaga mos keladi.",
+   "colors": [
+    "Qizil",
+    "Qora",
+    "Pushti",
+    "Ko'k"
+   ],
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Sport krossovka",
+   "category": 3,
+   "categoryId": 3,
+   "price": 480000,
+   "oldPrice": 560000,
+   "stock": 8,
+   "sold": 97,
+   "icon": "fa-shoe-prints",
+   "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80&auto=format&fit=crop",
+   "bg": "#DDE3D4",
+   "desc": "Yengil va qulay sport krossovka. Yugurish va kundalik kiyish uchun.",
+   "colors": [
+    "Qizil",
+    "Qora",
+    "Oq",
+    "Kulrang"
+   ],
+   "sizes": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Charm tufli",
+   "category": 3,
+   "categoryId": 3,
+   "price": 560000,
+   "stock": 15,
+   "sold": 34,
+   "icon": "fa-shoe-prints",
+   "image": "https://images.unsplash.com/photo-1614252369475-531eba835eb1?w=600&q=80&auto=format&fit=crop",
+   "bg": "#DDE3D4",
+   "desc": "Haqiqiy charmdan tayyorlangan klassik tufli.",
+   "colors": [
+    "Qora",
+    "Jigarrang"
+   ],
+   "sizes": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "id": 7,
+   "name": "Oshxona blenderi",
+   "category": 4,
+   "categoryId": 4,
+   "price": 390000,
+   "stock": 3,
+   "sold": 29,
+   "icon": "fa-blender",
+   "image": "https://images.unsplash.com/photo-1585232004423-244e0e6904e3?w=600&q=80&auto=format&fit=crop",
+   "bg": "#FAF0DA",
+   "desc": "1200W quvvatli blender, 5 xil tezlik, muzni maydalash rejimi.",
+   "colors": [
+    "Qora",
+    "Oq",
+    "Kumush"
+   ],
+   "sizes": [
+    "1.5 L",
+    "2 L"
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Divan yostig'i",
+   "category": 4,
+   "categoryId": 4,
+   "price": 75000,
+   "stock": 40,
+   "sold": 52,
+   "icon": "fa-couch",
+   "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=600&q=80&auto=format&fit=crop",
+   "bg": "#FAF0DA",
+   "desc": "Yumshoq dekorativ yostiq. Interyeringizga shinamlik qo'shadi.",
+   "colors": [
+    "Oq",
+    "Sariq",
+    "Kulrang",
+    "Pushti"
+   ],
+   "sizes": [
+    "40×40 sm",
+    "50×50 sm",
+    "60×60 sm"
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Charm hamyon",
+   "category": 5,
+   "categoryId": 5,
+   "price": 145000,
+   "stock": 27,
+   "sold": 88,
+   "icon": "fa-wallet",
+   "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=600&q=80&auto=format&fit=crop",
+   "bg": "#EFE3D8",
+   "desc": "Kompakt charm hamyon. 8 ta karta joyi, tanga bo'limi.",
+   "colors": [
+    "Jigarrang",
+    "Qora",
+    "Bej"
+   ],
+   "sizes": [
+    "Kichik",
+    "Katta"
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Quyosh ko'zoynagi",
+   "category": 5,
+   "categoryId": 5,
+   "price": 98000,
+   "stock": 18,
+   "sold": 45,
+   "icon": "fa-glasses",
+   "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&q=80&auto=format&fit=crop",
+   "bg": "#EFE3D8",
+   "desc": "UV400 himoyasi. Polarizatsiyalangan linzalar.",
+   "colors": [
+    "Qora",
+    "Yashil",
+    "Jigarrang",
+    "Oltin"
+   ],
+   "sizes": [
+    "Standart",
+    "Katta"
+   ]
+  },
+  {
+   "id": 11,
+   "name": "Portativ kolonka",
+   "category": 1,
+   "categoryId": 1,
+   "price": 260000,
+   "oldPrice": 310000,
+   "stock": 31,
+   "sold": 70,
+   "icon": "fa-volume-high",
+   "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600&q=80&auto=format&fit=crop",
+   "bg": "#D4DDC8",
+   "desc": "Bluetooth 5.0, 20 soat batareya, IPX7 suvga chidamli.",
+   "colors": [
+    "Qora",
+    "Ko'k",
+    "Qizil"
+   ],
+   "sizes": [
+    "Mini",
+    "Standart",
+    "Katta"
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Bolalar poyabzali",
+   "category": 3,
+   "categoryId": 3,
+   "price": 180000,
+   "stock": 9,
+   "sold": 38,
+   "icon": "fa-shoe-prints",
+   "image": "https://images.unsplash.com/photo-1514989940723-e8e51635b782?w=600&q=80&auto=format&fit=crop",
+   "bg": "#DDE3D4",
+   "desc": "Yorqin dizayn, yumshoq taglik, kiyish oson.",
+   "colors": [
+    "Sariq",
+    "Qizil",
+    "Ko'k",
+    "Pushti"
+   ],
+   "sizes": [
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33"
+   ]
+  }
+ ],
+ "discounts": [
+  {
+   "code": "YANGI10",
+   "percent": 10,
+   "used": 214,
+   "expires": "2026-12-31",
+   "active": true
+  },
+  {
+   "code": "YOZ2026",
+   "percent": 20,
+   "used": 88,
+   "expires": "2026-09-30",
+   "active": true
+  },
+  {
+   "code": "VIP25",
+   "percent": 25,
+   "used": 31,
+   "expires": "2026-10-15",
+   "active": true
+  }
+ ]
+}
