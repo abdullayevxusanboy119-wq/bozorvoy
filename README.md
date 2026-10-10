@@ -2,6 +2,8 @@
 
 Django va Django REST Framework asosidagi onlayn do'kon: mijozlar uchun vitrina va boshqaruv paneli (admin).
 
+![Vitrina](docs/vitrina.png)
+
 ## Imkoniyatlar
 
 - Mahsulotlar katalogi: kategoriyalar, qidiruv, filtr, rang va o'lcham tanlash
